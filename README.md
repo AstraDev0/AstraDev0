@@ -1,45 +1,45 @@
-# Bienvenue sur mon Profil GitHub ! 👋
+# Welcome to My GitHub Profile! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AstraDev0&color=blue)
 ![Followers](https://img.shields.io/github/followers/AstraDev0?label=Followers)
 ![Stars](https://img.shields.io/github/stars/AstraDev0?label=Stars)
 
-## À propos de moi
+## About Me
 
-Je suis Matthis, étudiant en troisième année à EPITECH, passionné par l'informatique depuis l'âge de 14 ans. J'ai développé une expertise diversifiée dans plusieurs domaines clés, et je suis toujours en quête de nouveaux défis technologiques.
+I'm Matthis, a third-year student at EPITECH, passionate about computer science since the age of 14. I have developed diverse expertise in several key areas and am always seeking new technological challenges.
 
-- 🔭 Je travaille actuellement sur : Athena
-- 🌱 J'apprends actuellement : L'intelligence artificielle
-## Compétences Techniques
+- 🔭 Currently working on: Athena
+- 🌱 Currently learning: Artificial Intelligence
 
-- **Développement Web :**
-  - Full-stack avec expertise dans la conception et le développement d'applications web
-  - Front-end : HTML, CSS, JavaScript, React, TypeScript
-  - Back-end : C, C++, Node.js, Python
+## Technical Skills
 
-- **Sécurité Informatique :**
-  - Gestion de serveurs et sécurité sous Linux
-  - Projets et stages orientés vers la cybersécurité
+- **Web Development:**
+  - Full-stack expertise in designing and developing web applications
+  - Front-end: HTML, CSS, JavaScript, React, TypeScript
+  - Back-end: C, C++, Node.js, Python
 
-- **Développement Logiciel :**
-  - Applications web et mobiles avec React Native
-  - Développement natif pour iOS et Android
+- **Cybersecurity:**
+  - Server management and security on Linux
+  - Projects and internships focused on cybersecurity
 
-## Compétences Méthodologiques
+- **Software Development:**
+  - Web and mobile applications with React Native
+  - Native development for iOS and Android
 
-- **Travail d'Équipe :**
-  - Collaboration au sein d'équipes multidisciplinaires
-  - Projet AREA : Réalisation d'une application web similaire à Zapier ou IFTTT en équipe de 5 personnes
+## Methodological Skills
 
-- **Autonomie et Initiative :**
-  - Capacité à travailler de manière autonome
-  - Prise d'initiatives constructives pour résoudre des problèmes complexes
+- **Teamwork:**
+  - Collaboration within multidisciplinary teams
+  - AREA Project: Developed a web application similar to Zapier or IFTTT in a team of 5
 
+- **Autonomy and Initiative:**
+  - Ability to work independently
+  - Taking constructive initiatives to solve complex problems
 
-## Statistiques GitHub
+## GitHub Stats
 
-![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AstraDev0&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstraDev0&show_icons=true&theme=radical)
 
-## Langues les plus utilisées
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstraDev0&layout=compact&theme=radical)
