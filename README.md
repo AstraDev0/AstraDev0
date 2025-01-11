@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm Matthis, a third-year student at EPITECH, passionate about computer science. I have developed diverse expertise in several key areas and am always seeking new technological challenges.
+I'm Matthis, final year student at Epitech, passionate about computer science. I have developed diverse expertise in several key areas and am always seeking new technological challenges.
 
 - 🔭 Currently working on: Athena
 - 🌱 Currently learning: Artificial Intelligence
