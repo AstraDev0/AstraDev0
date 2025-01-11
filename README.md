@@ -24,7 +24,7 @@ I'm Matthis, a third-year student at EPITECH, passionate about computer science.
 
 - **Software Development:**
   - Web and mobile applications with React Native
-  - Native development for iOS and Android
+  - Native development for Android
 
 ## Methodological Skills
 
