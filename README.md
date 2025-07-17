@@ -36,10 +36,6 @@ I'm Matthis, final year student at Epitech, passionate about computer science. I
   - Ability to work independently
   - Taking constructive initiatives to solve complex problems
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstraDev0&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstraDev0&layout=compact&theme=radical)
